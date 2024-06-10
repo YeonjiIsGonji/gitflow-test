@@ -1,5 +1,6 @@
 <template>
   <div>
-    <h1>호진~</h1>
+    <h1>Member!!</h1>
+    <p>나는 호진zzzzz</p>
   </div>
 </template>
